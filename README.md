@@ -18,8 +18,8 @@ I'm a learner growing in the field of software testing. I work as a manual teste
 
 ### 📌 Featured Projects
 
-- **[Python_Site_FinalProject_Bazhina](https://github.com/Tasha137/Python_Site_FinalProject_Bazhina)** — Diploma project: Django web application with PostgreSQL database
-- **[Fashion_Show_Creator](https://github.com/Tasha137/Fashion_Show_Creator)** — Personal project: application for organizing and managing fashion shows
+- **[Python_Site_FinalProject_Bazhina](https://github.com/NataBazhina/Python_Site_FinalProject_Bazhina)** — Diploma project: Django web application with PostgreSQL database
+- **[Fashion_Show_Creator](https://github.com/NataBazhina/Fashion_Show_Creator)** — Personal project: application for organizing and managing fashion shows
 
 ### 📬 Contact
 
@@ -47,8 +47,8 @@ I'm a learner growing in the field of software testing. I work as a manual teste
 
 ### 📌 Избранные проекты
 
-- **[Python_Site_FinalProject_Bazhina](https://github.com/Tasha137/Python_Site_FinalProject_Bazhina)** — дипломный проект: веб-приложение на Django с базой данных PostgreSQL
-- **[Fashion_Show_Creator](https://github.com/Tasha137/Fashion_Show_Creator)** — личный проект: приложение для организации и управления показами мод
+- **[Python_Site_FinalProject_Bazhina](https://github.com/NataBazhina/Python_Site_FinalProject_Bazhina)** — дипломный проект: веб-приложение на Django с базой данных PostgreSQL
+- **[Fashion_Show_Creator](https://github.com/NataBazhina/Fashion_Show_Creator)** — личный проект: приложение для организации и управления показами мод
 
 ### 📬 Контакты
 
