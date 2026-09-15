@@ -1,4 +1,4 @@
-## 👋 Hello! I'm Natalia Bazhina
+## 👋 Hello! I'm Natalia
 
 I'm a learner growing in the field of software testing. I work as a manual tester on a live project and aim to become an automation tester.
 
@@ -27,7 +27,7 @@ I'm a learner growing in the field of software testing. I work as a manual teste
 
 ---
 
-## 👋 Привет! Меня зовут Наталья Бажина
+## 👋 Привет! Меня зовут Наталья
 
 Я учусь и развиваюсь в направлении тестирования ПО. Работаю ручным тестировщиком на реальном проекте и стремлюсь стать автотестировщиком.
 
