@@ -1,6 +1,12 @@
-# 👋 Hello! I'm Natalia
+👋 Hello! I'm Natalia
 
-I'm a learner growing in the field of software testing. I work as a manual tester on a live project and aim to become an automation tester.
+I'm a Manual QA Engineer growing in the field of software testing. I work as a manual tester on a live web project and aim to develop my skills in test automation.
+
+📂 QA Portfolio
+
+[View my QA Testing Portfolio https://palm-pumpkin-140.notion.site/QA-Engineer-Portfolio-3f124f3fb2098030a2a4d7d4da3954bd](https://palm-pumpkin-140.notion.site/QA-Engineer-Portfolio-3f124f3fb2098030a2a4d7d4da3954bd)
+
+The portfolio includes a practical QA case study covering manual testing, functional testing, regression testing, end-to-end testing, payment flows, role-based access, bug investigation and retesting.
 
 ---
 
@@ -44,9 +50,15 @@ I'm a learner growing in the field of software testing. I work as a manual teste
 
 <br>
 
-### 👋 Привет! Меня зовут Наталья
+👋 Привет! Меня зовут Наталья
 
-Я учусь и развиваюсь в направлении тестирования ПО. Работаю ручным тестировщиком на реальном проекте и стремлюсь стать автотестировщиком.
+Я развиваюсь в направлении тестирования ПО. Работаю Manual QA Engineer на реальном веб-проекте и развиваю навыки автоматизированного тестирования.
+
+📂 QA-портфолио
+
+[Посмотреть моё QA-портфолио https://palm-pumpkin-140.notion.site/QA-Engineer-Portfolio-3f124f3fb2098030a2a4d7d4da3954bd](https://palm-pumpkin-140.notion.site/QA-Engineer-Portfolio-3f124f3fb2098030a2a4d7d4da3954bd)
+
+В портфолио представлен практический QA-кейс: ручное тестирование, функциональное и регрессионное тестирование, End-to-End сценарии, платежные процессы, роли и права доступа, исследование дефектов и Retesting.
 
 #### 🛠 Технологии и инструменты
 - **Языки:** Python, SQL, JavaScript (базово)
